@@ -1,0 +1,22 @@
+/* viewport units*/
+/*vh-view height-percent of the screen*/
+/*vw-view width-percent of the screen*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.title
+{
+    background: blue;
+    height: 50vh;
+     width:100vw;
+}
+.about
+{
+    background: blue;
+    height: 50vh;
+    width:50vw;
+}

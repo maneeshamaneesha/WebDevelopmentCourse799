@@ -1,0 +1,26 @@
+/*last rule and specificity(*) Universal selector*/
+.special
+{
+    color:green;
+}
+p
+{
+    color:red;
+}
+p
+{
+    color: blue;
+}
+#threading
+{
+    color:red;
+
+}
+.heading
+{
+    color: blue;
+}
+*
+{
+    color: brown;
+}
